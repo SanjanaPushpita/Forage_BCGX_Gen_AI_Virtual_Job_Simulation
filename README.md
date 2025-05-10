@@ -7,3 +7,7 @@ This Repository consists of all the Colab (.ipynb) files, python files, excel sh
 ## Task 1: Data Extraction and Initial Analysis
 ### [Colab for task 1](Forage_BCGX_Gen_AI_Virtual_Job_Simulation/Task 1_ Data Extraction and Initial Analysis)
 <hr>
+
+## Task 2: Developing an AI Driven Financial ChatBot Prototype
+### [AI_driven_Financial_ChatBot_Prototype Python Application](Forage_BCGX_Gen_AI_Virtual_Job_Simulation/Task 2_ Developing a AI driven Financial Chatbot Prototype/Task_2_Developing_a_AI_driven_Financial_Chatbot_Prototype.ipynb)
+<hr>
